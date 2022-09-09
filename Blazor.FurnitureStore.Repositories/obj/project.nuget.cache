@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "svRh1TQLYsdXyfczA9AtRE2QrckdUKPmQBK72E5+bxIwDmkZz081MrzIWwO3oo9CulWLcWP+XX/tqA78nlBS4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TEMP\\source\\repos\\Blazor.FurnitureStore\\Blazor.FurnitureStore.Repositories\\Blazor.FurnitureStore.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TEMP\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}

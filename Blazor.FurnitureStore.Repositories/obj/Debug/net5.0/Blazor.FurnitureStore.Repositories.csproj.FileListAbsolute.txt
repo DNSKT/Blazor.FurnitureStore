@@ -1,0 +1,15 @@
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\bin\Debug\net5.0\Blazor.FurnitureStore.Repositories.deps.json
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\bin\Debug\net5.0\Blazor.FurnitureStore.Repositories.dll
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\bin\Debug\net5.0\Blazor.FurnitureStore.Repositories.pdb
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\bin\Debug\net5.0\Blazor.FurnitureStore.Shared.dll
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\bin\Debug\net5.0\Blazor.FurnitureStore.Shared.pdb
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\obj\Debug\net5.0\Blazor.FurnitureStore.Repositories.csproj.AssemblyReference.cache
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\obj\Debug\net5.0\Blazor.FurnitureStore.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\obj\Debug\net5.0\Blazor.FurnitureStore.Repositories.AssemblyInfoInputs.cache
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\obj\Debug\net5.0\Blazor.FurnitureStore.Repositories.AssemblyInfo.cs
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\obj\Debug\net5.0\Blazor.FurnitureStore.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\obj\Debug\net5.0\Blazor.FurnitureStore.Repositories.csproj.CopyComplete
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\obj\Debug\net5.0\Blazor.FurnitureStore.Repositories.dll
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\obj\Debug\net5.0\refint\Blazor.FurnitureStore.Repositories.dll
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\obj\Debug\net5.0\Blazor.FurnitureStore.Repositories.pdb
+C:\Users\TEMP\source\repos\Blazor.FurnitureStore\Blazor.FurnitureStore.Repositories\obj\Debug\net5.0\ref\Blazor.FurnitureStore.Repositories.dll
